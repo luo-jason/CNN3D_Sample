@@ -4,8 +4,14 @@
 - I tested the codes on Python3.7 & Tensorflow2.4, EC2 g4dn.xlarge.
 - BTW, it might throw an error depends on the machine you run these codes.
 
-### Anyway, to begin with, make sure that you have tensorflow installed. (Better to use a Python virtaul environment to run the codes)
+### Anyway, to begin with, clone the repository (through https)
 ```
+git clone https://github.com/luo-jason/CNN3D_Sample.git
+```
+### make sure that you have tensorflow installed. 
+**(Better to use a Python virtaul environment to run the codes)**
+```
+cd CNN3D_Sample
 pip install -r requirements.txt
 ```
 
